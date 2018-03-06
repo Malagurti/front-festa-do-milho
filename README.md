@@ -1,3 +1,3 @@
-# Quasar App
+# FrontEnd para o site da Festa do milho
 
-> WIP
+> Front end desenvolvido em VueJS pela turma de ADS
